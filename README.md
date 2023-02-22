@@ -1,8 +1,7 @@
 ### Olá! Eu sou Lila Rodrigues ###
-<div align="center">
-  <a href="https://github.com/Lilarodrigues85">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lilarodrigues85&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilarodrigues85&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lilarodrigues85&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Lila Rodrigues github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lilarodrigues85&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
