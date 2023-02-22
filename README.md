@@ -1,10 +1,9 @@
 <div>
   <img  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=40&pause=1000&color=1DF7A8&background=1451FF00&center=true&vCenter=true&width=475&lines=Ola%2C+sejam+bem+vindos(as)!;Sou+Lila+Rodrigues.;Developer+Full-Stack.;" alt="Typing SVG" />
-
-<h1 align="center">
- <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-</h1>
 </div>
+ <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lilarodrigues85&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Lila Rodrigues github stats"/> 
