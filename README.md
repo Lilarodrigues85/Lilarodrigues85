@@ -1,4 +1,4 @@
-### Olá! Eu sou Lila Rodrigues ###
+<img  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=40&pause=1000&color=1DF7A8&background=1451FF00&center=true&vCenter=true&width=475&lines=Ola%2C+sejam+bem+vindos(as)!;Sou+Lila+Rodrigues.;Sejam+Bem+Vindos.;" alt="Typing SVG" />
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lilarodrigues85&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Lila Rodrigues github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lilarodrigues85&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
