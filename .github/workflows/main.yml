@@ -21,12 +21,12 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Lilarodrigues85
+          github_user_name: ${{ Lilarodrigues85 }}
           outputs: dist/snake.svg?palette=github-dark
 
 
       - name: push snake.svg to the output branch
-        uses: Lilarodrigues85/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
