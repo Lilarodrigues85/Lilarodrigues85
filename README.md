@@ -1,4 +1,9 @@
-<h2 align="center">Hi 👋! My name is Lila Rodrigues ... and I'm a Software Enginer..., from Santo André - SP - Brazil....</h2>
+<h2 align="center">👋 Oi, eu sou a Lila
+
+🚀 Engenheira de Software Pleno | Tech Lead | Arquiteta de ideias e sistemas
+
+Sou movida a código limpo, arquitetura sólida e soluções que escalam com elegância.
+Lidero times, desenho sistemas e escrevo código que conversa — não só com a máquina, mas com quem vai manter o projeto daqui seis meses 😅</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lilarodrigues85&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
