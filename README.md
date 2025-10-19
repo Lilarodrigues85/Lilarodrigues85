@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/@dev_lila" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="dalila.analistadesistema@gmail.com" target="_blank">
+  <a href="dalila.rodrigues@datametria.io" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
