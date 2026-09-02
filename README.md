@@ -1,6 +1,6 @@
 <h2 align="center">👋 Oi, eu sou a Lila
 
-🚀 Partner | CTO & VP Engineering | AI Engineer | Tech Lead | Scalable Systems | Python & IA Specialist
+🚀 AI Engineer | Tech Lead | Scalable Systems | Python & IA Specialist
 
 Sou movida a código limpo, arquitetura sólida e soluções que escalam com elegância.
 Lidero times, desenho sistemas e escrevo código que conversa — não só com a máquina, mas com quem vai manter o projeto daqui seis meses 😅</h2>
